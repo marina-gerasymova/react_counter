@@ -1,0 +1,1 @@
+{"version":3,"sources":["counter.scss"],"names":[],"mappings":"AACE,iBACE,iBAAkB","file":"main.bb076720.chunk.css","sourcesContent":[".counter {\n  &__button {\n    margin-right: 10px;\n  }\n}\n"]}
